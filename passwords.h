@@ -1,0 +1,1 @@
+char* adminpass = "password";
